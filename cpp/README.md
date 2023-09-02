@@ -1,3 +1,9 @@
+
+# Code link
+code is in src directory
+
+[the link to the major code](src/pipeline.h)
+
 # Assignment 3: A dataflow pipeline
 
 ## Changelog
